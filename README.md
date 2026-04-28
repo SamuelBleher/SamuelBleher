@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Samuel Bleher
+# Hi there 👋, I'm Sam
 
 🎓 **M.Sc. in Robotics, Cognition, and Intelligence**  
 👨‍💻 **Aerospace Engineering Background**  
